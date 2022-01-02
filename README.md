@@ -23,7 +23,7 @@
 ```c++
 class me{
 
-    int age = 17 
+    int age = 18 
 
     string country = "Slovenia"
 
@@ -50,7 +50,7 @@ while(dev.isCoding() && dev.isStuck())
 - :keyboard: Speedtyping (PBA = 152 WPM)
 - :brain: Cubing (3x3 PB = 19:62 s, Megaminx PB = 01:52 min)
 - 📱Testing new phones and laptops
-- ![image](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) (Pokemon Unite)
+- ![image](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) 
 - 🥏 Ultimate frisbee
 - :books: Leading a tutoring NPO
 
