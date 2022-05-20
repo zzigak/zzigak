@@ -49,17 +49,16 @@ while(dev.isCoding() && dev.isStuck())
 ## Hobbies
 - :keyboard: Speedtyping (PBA = 152 WPM)
 - :brain: Cubing (3x3 PB = 19:62 s, Megaminx PB = 01:52 min)
-- 📱Testing new phones and laptops
+- 📱 Testing new phones and laptops
 - ![image](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) 
 - 🥏 Ultimate frisbee
 - :books: Leading a tutoring NPO
 
 
 ## Currently Learning
-- 🤖 Machine learning and Natural Language Programming
 - :seedling: Golang, Rust
 - :electron: React.js
--  Functional programming (![image](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white))
+-  - 🤖 Machine learning and Natural Language Programming (*stopped*)
 
 
 
