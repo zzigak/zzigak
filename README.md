@@ -100,7 +100,6 @@ while(dev.isCoding() && dev.isStuck())
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/hellozigak?color=blue&logo=Twitter&style=for-the-badge) 
 
-📫Alternatively you can reach me : ziga.gk@gmail.com
 
 
 
