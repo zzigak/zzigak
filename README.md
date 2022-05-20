@@ -98,7 +98,7 @@ while(dev.isCoding() && dev.isStuck())
 ---
 ## Connect With Me Here:
 
-![Twitter Follow](https://img.shields.io/twitter/follow/ZILETOK?color=blue&logo=Twitter&style=for-the-badge) 
+![Twitter Follow](https://img.shields.io/twitter/follow/hellozigak?color=blue&logo=Twitter&style=for-the-badge) 
 
 📫Alternatively you can reach me : ziga.kovacic03@gmail.com 
 
