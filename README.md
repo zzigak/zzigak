@@ -23,13 +23,15 @@
 ```c++
 class me{
 
-    int age = 18 
+    int age = 18;
 
-    string country = "Slovenia"
+    string country = "Slovenia";
 
-    string nickname = "No nickname, sadly. " 
+    string nickname = "No nickname, sadly.";
 
-    string quirk = "Productivity"
+    string quirk = "Productivity";
+    
+    string uni = "Cornell University";
     
     bool tech_nerd = true;
 }
