@@ -27,14 +27,14 @@ class me{
 
     string country = "Slovenia"
 
-    string nickname = "Zileto " 
+    string nickname = "No nickname, sadly. " 
 
     string quirk = "Productivity"
     
-    bool tech_nerd= true;
+    bool tech_nerd = true;
 }
 
-Developer dev = new Developer(Zileto);
+Developer dev = new Developer(Zziga);
 
 while(dev.isCoding() && dev.isStuck())  
 {
@@ -50,6 +50,7 @@ while(dev.isCoding() && dev.isStuck())
 - :keyboard: Speedtyping (PBA = 152 WPM)
 - :brain: Cubing (3x3 PB = 19:62 s, Megaminx PB = 01:52 min)
 - 📱 Testing new phones and laptops
+- Augmented Reality!
 - ![image](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) 
 - 🥏 Ultimate frisbee
 - :books: Leading a tutoring NPO
