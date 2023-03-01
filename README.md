@@ -5,7 +5,7 @@
 
 
 ## About me
-Currently studying CS and Math @ Cornell c/o 2026. Spending my awake hours on exploring computer graphics, CV, and ML.
+I'm urrently studying CS and Math @ Cornell c/o 2026. Spending my awake hours on exploring computer graphics, CV, and ML.
 
 ### Hobbies
 - :keyboard: Speedtyping (PBA = 154 WPM)
