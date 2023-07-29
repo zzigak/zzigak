@@ -5,7 +5,7 @@
 
 
 ## About me
-I'm currently studying CS and Math @ Cornell c/o 2026. Spending my awake hours on exploring computer graphics, computer vision, and ML.
+I'm currently studying CS and Math @ Cornell c/o 2026. Spending my awake hours on exploring computer graphics, maths, and ML.
 
 
 ### Bio
