@@ -9,7 +9,7 @@ I'm currently studying CS and Math @ Cornell c/o 2026. Spending my awake hours o
 
 
 ### Bio
-19 y old
+20 y old
 from Slovenia
 
 ### Hobbies
