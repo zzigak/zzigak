@@ -7,6 +7,8 @@
 ## About me
 I'm currently studying CS, Math, and College Scholars @ Cornell c/o 2026. Spending my awake hours on exploring computer graphics, mathematics, and ML.
 
+Feel free to visit my website for more information about my research / experience: https://zzigak.github.io
+
 
 ### Tools
 
