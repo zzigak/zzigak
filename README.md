@@ -5,17 +5,7 @@
 
 
 ## About me
-I'm currently studying CS and Math @ Cornell c/o 2026. Spending my awake hours on exploring computer graphics, maths, and ML.
-
-
-### Bio
-20 y old
-from Slovenia
-
-### Hobbies
-- :keyboard: Speedtyping (PBA = 154 WPM)
-- Cubing (3x3 PB = 19:62 s, Megaminx PB = 01:52 min)
-- Cooking
+I'm currently studying CS, Math, and College Scholars @ Cornell c/o 2026. Spending my awake hours on exploring computer graphics, mathematics, and ML.
 
 
 ### Tools
