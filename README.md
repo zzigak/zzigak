@@ -5,7 +5,7 @@
 
 
 ## About me
-I'm currently studying CS, Math, and College Scholars @ Cornell c/o 2026. Spending my awake hours on exploring computer graphics, mathematics, and ML.
+I'm currently studying CS, Math, and College Scholars @ Cornell c/o 2026. I spend my waking hours researching computer graphics, mathematics, and ML. Recently I've been working on timelapse video generation and physically plausible resimulations of environments.
 
 Feel free to visit my website for more information about my research, experience, or projects: https://zzigak.github.io
 
