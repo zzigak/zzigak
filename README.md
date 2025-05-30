@@ -5,10 +5,11 @@
 
 
 ## About me
-I'm currently studying CS, Math, and College Scholars @ Cornell c/o 2026. 
-I do research in computer graphics, ML, and computer vision. Recently I've been working on timelapse video generation and physically plausible resimulations of environments.
+I currently pursing my B.A. in Mathematics and CS, through the College Scholars program at Cornell University. At Cornell I'm fortunate to work with Kevin Ellis. I previously worked with Abe Davis on time-lapse generation and modal analysis for resimulation. 
 
-Feel free to visit my website for more information about my research, experience, or projects: https://zzigak.github.io
+**Research Interests.** I'm broadly interested in the intersection of physical simulation, machine learning, and computer graphics. Currently I'm focusing on refactoring and code generation for physical simulation. Previously I dabbled in physically plausible re-simulations. 
+
+Please visit my website for more information about my research and projects! ![https://zzigak.github.io](https://zzigak.github.io)
 
 
 
